@@ -5,6 +5,7 @@
 				<li><a href="cpu.php">CPU</a></li>
 				<li><a href="mem.php">Memory</a></li>
 				<li><a href="filesystem.php">Filesystem</a></li>
+				<li><a href="network.php">Network</a></li>
 			</ul>
 		</div><!--/content-primary -->
 
