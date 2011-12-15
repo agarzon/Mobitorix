@@ -28,6 +28,7 @@ TODO
 -------
 
 * Load and serve graphics locally
+* Refresh button
 * Protect access by password
 * Logout button
 * Nested list
