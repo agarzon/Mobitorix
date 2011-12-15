@@ -10,10 +10,10 @@
 </head>
 <body>
 
-<div data-role="page">
+<div data-role="page" data-theme="<?php echo $theme ?>">
 
-	<div data-role="header" data-position="inline" data-backbtn="false">
-		<h1>Mobitorix 1.0</h1>
+	<div data-role="header" data-position="inline" data-backbtn="false" data-theme="<?php echo $theme ?>">
+		<h1>Mobitorix <?php echo $version ?></h1>
 		<a href="index.php" data-role="button" data-icon="home">Home</a>
 	</div><!-- /header -->
 
