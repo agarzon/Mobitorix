@@ -31,7 +31,6 @@ TODO
 * Protect access by password
 * Logout button
 * Nested list
-* Enable to choose Theme by config
 * Add all graphics
 * Enable graphics by config
 * Make configs editable from interface
