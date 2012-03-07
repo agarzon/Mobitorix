@@ -15,9 +15,8 @@ Requirements
 
 Installation
 --------------
-Just clone the project (git@github.com:agarzon/Mobitorix.git) and put it in your web site
-
-Or get the ZIP file from https://github.com/agarzon/Mobitorix/zipball/master and descompress it
+Just clone the project git://github.com/agarzon/Mobitorix.git or get the ZIP file from 
+https://github.com/agarzon/Mobitorix/zipball/master and put the content it in your website. 
 
 Configuration
 --------------
