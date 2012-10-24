@@ -21,7 +21,6 @@ Monitorix should be runig with public access (check TODO list)
 TODO
 -------
 
-* Load and serve graphics locally
 * Refresh button
 * Fix cache issue
 * Add more graphics
