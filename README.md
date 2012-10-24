@@ -13,27 +13,19 @@ Requirements
  * Apache
  * PHP
 
-Installation
---------------
-Just clone the project git://github.com/agarzon/Mobitorix.git or get the ZIP file from 
-https://github.com/agarzon/Mobitorix/zipball/master and put the content it in your website. 
-
 Configuration
 --------------
-Just add the IP where Monitorix is running into config.php file.
-At this moment, Monitorix should be runig with public access (check TODO list)
+Just set the hostname where Monitorix is running into config.php file.
+Monitorix should be runig with public access (check TODO list)
 
 TODO
 -------
 
 * Load and serve graphics locally
 * Refresh button
-* Protect access by password
-* Logout button
-* Nested list
-* Add all graphics
-* Enable graphics by config
-* Make configs editable from interface
+* Fix cache issue
+* Add more graphics
+* Enable/Disable graphics by config
 
 License
 -------
