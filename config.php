@@ -1,11 +1,8 @@
 <?php
-define('IP', 'xxx.xxx.xxx.xxx');
+define('VERSION', '1.2');
+define('HOST', 's1.venehosting.com');
 define('THEME', 'grey');//options are: black, blue, white, yellow and grey (default)
 
-
-
-
-/* Engine */
 switch (THEME) {
 	case 'black':
 		$theme = 'a'; break;
@@ -20,5 +17,3 @@ switch (THEME) {
 	default:
 		$theme = 'd';
 }
-
-$version = '1.1';
