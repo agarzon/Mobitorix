@@ -23,7 +23,10 @@
 
 </head>
 <body>
-<?php include_once 'config.php';?>
+<?php 
+include_once 'config.php';
+define('VERSION', '1.3');
+?>
 <div data-role="page" data-theme="<?php echo $theme ?>" data-add-back-btn="true">
 
 	<div data-role="header" data-theme="<?php echo $theme ?>">
