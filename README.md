@@ -15,7 +15,7 @@ Requirements
 
 Configuration
 --------------
-Just set the hostname where Monitorix is running into config.php file.
+Just rename config.dev.php to config.php and set the hostname where Monitorix is running.
 Monitorix should be runig with public access (check TODO list)
 
 TODO
@@ -29,7 +29,7 @@ TODO
 License
 -------
 
-MOBITORIX is licensed under the MIT License. (See LICENSE)
+MOBITORIX is licensed under the MIT License.
 
 Author
 -------

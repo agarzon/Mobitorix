@@ -1,6 +1,6 @@
 <?php
 define('VERSION', '1.2');
-define('HOST', 's1.venehosting.com');
+define('HOST', 'xxx');
 define('THEME', 'grey');//options are: black, blue, white, yellow and grey (default)
 
 switch (THEME) {
