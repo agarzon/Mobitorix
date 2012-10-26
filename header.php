@@ -3,6 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Mobitorix :: The mobile interface for Monitorix</title>
+	 <link rel="icon" type="image/x-icon" href="favicon.ico" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
 	<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
