@@ -10,11 +10,11 @@
 	<script>
 	$(document).ready(function () {
 		$(function(){
-			$('div').live('pagehide', function (event, ui) {  
+			$('div').live('pagehide', function (event, ui) {
 				var $this = $(this);
-				if ($this.attr('ID') !== undefined && $this.attr('data-cache') !== undefined && $this.attr('data-cache') == "never") {  
-						var page = $this.attr('ID');
-						$(document.getElementById(page)).remove();
+				if ($this.attr('ID') !== undefined && $this.attr('data-cache') !== undefined && $this.attr('data-cache') == "never") {
+					var page = $this.attr('ID');
+					$(document.getElementById(page)).remove();
 				}
 			});
 		});
@@ -23,9 +23,9 @@
 
 </head>
 <body>
-<?php 
+<?php
 include_once 'config.php';
-define('VERSION', '1.3');
+define('VERSION', '1.4');
 ?>
 <div data-role="page" data-theme="<?php echo $theme ?>" data-add-back-btn="true">
 

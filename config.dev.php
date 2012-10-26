@@ -1,6 +1,6 @@
 <?php
 define('HOST', 'xxx');//Example: mydomain.com
-define('THEME', 'grey');//options are: black, blue, white, yellow and grey (default)
+define('THEME', 'black');//options are: black (default), blue, white, yellow and grey
 
 switch (THEME) {
 	case 'black':
@@ -14,5 +14,5 @@ switch (THEME) {
 	case 'yellow':
 		$theme = 'e'; break;
 	default:
-		$theme = 'd';
+		$theme = 'a';
 }

@@ -1,7 +1,7 @@
 <?php include_once 'header.php';?>
 
 		<div class="content-primary">
-			<ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="a">
+			<ul data-role="listview" data-inset="true" data-theme="<?php echo $theme ?>">
 				<li><a href="pages/cpu.php" data-transition="slide">CPU</a></li>
 				<li><a href="pages/mem.php" data-transition="slide">Memory</a></li>
 				<li><a href="pages/filesystem.php" data-transition="slide">Filesystem</a></li>

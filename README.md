@@ -24,9 +24,9 @@ TODO
 -------
 
 * Refresh button
-* Fix cache issue
 * Add more graphics
 * Enable/Disable graphics by config
+* Friendly urls (.htaccess)
 
 License
 -------
