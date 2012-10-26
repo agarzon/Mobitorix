@@ -6,6 +6,7 @@
 				<li><a href="pages/mem.php" data-transition="slide">Memory</a></li>
 				<li><a href="pages/filesystem.php" data-transition="slide">Filesystem</a></li>
 				<li><a href="pages/apache.php" data-transition="slide">Apache</a></li>
+				<li><a href="pages/mysql.php" data-transition="slide">MySQL</a></li>
 				<li><a href="pages/network.php" data-transition="slide">Network</a></li>
 			</ul>
 		</div>
