@@ -26,12 +26,12 @@
 <body>
 <?php
 include_once 'config.php';
-define('VERSION', '1.4');
+define('VERSION', '1.5');
 ?>
 <div data-role="page" data-theme="<?php echo $theme ?>" data-add-back-btn="true">
 
 	<div data-role="header" data-theme="<?php echo $theme ?>">
-		<h1>Mobitorix</h1>
+		<h1><?php echo HOST ?> :: Mobitorix <?php echo VERSION?></h1>
 	</div>
 
 	<div data-role="content">

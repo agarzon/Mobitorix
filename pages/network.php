@@ -1,7 +1,6 @@
 <?php include_once '../header.php';?>
 
 <div style="text-align:center" data-cache="never">
-	<h3>Network</h3>
 	<img src="http://<?php echo HOST ?>/monitorix/imgs/net01z.1day.png" style="width: 100%;">
 </div>
 
